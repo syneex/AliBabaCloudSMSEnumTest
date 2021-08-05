@@ -1,0 +1,38 @@
+﻿[
+  {
+    "TemplateCode": "SMS_0000000000000",
+    "Message": "OK",
+    "RequestId": "000000-0000-0000-0000-0000000000",
+    "TemplateContent": "you are applying for mobile phone registration with a verification code of ${code}, valid in 5 minutes",
+    "TemplateName": "test template0",
+    "TemplateType": 0,
+    "Code": "OK",
+    "CreateDate": "2021-08-05 19:05:20",
+    "Reason": "none",
+    "TemplateStatus": 0
+  },
+  {
+    "TemplateCode": "SMS_0000000000000",
+    "Message": "OK",
+    "RequestId": "000000-0000-0000-0000-0000000000",
+    "TemplateContent": "Testmessage1",
+    "TemplateName": "test template",
+    "TemplateType": 1,
+    "Code": "OK",
+    "CreateDate": "2021-08-05 19:05:20",
+    "Reason": "none",
+    "TemplateStatus": 1
+  },
+  {
+    "TemplateCode": "SMS_0000000000000",
+    "Message": "OK",
+    "RequestId": "000000-0000-0000-0000-0000000000",
+    "TemplateContent": "Testmessage",
+    "TemplateName": "test template2",
+    "TemplateType": 2,
+    "Code": "OK",
+    "CreateDate": "2021-08-05 19:05:20",
+    "Reason": "none",
+    "TemplateStatus": 2
+  }
+]
