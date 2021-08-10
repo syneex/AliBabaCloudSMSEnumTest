@@ -12,16 +12,16 @@ namespace EnumTestJsonConvert
         /// <summary>
         /// [0] The Under Review Status.
         /// </summary>
-        Review,
+        Review = 0,
 
         /// <summary>
         /// [1] The Approved Status.
         /// </summary>
-        Approved,
+        Approved = 1,
 
         /// <summary>
         /// [2] The Blocked Status.
         /// </summary>
-        Blocked,
+        Blocked = 2,
     }
 }

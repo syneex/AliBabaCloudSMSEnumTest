@@ -1,0 +1,12 @@
+﻿{
+  "TemplateCode": "SMS_0000000000000",
+  "Message": "OK",
+  "RequestId": "00000-000-0000-00000-00000",
+  "TemplateContent": "you are applying for mobile phone registration with a verification code of ${code}, valid in 5 minutes",
+  "TemplateName": "test template",
+  "TemplateType": "Verification",
+  "Code": "OK",
+  "CreateDate": "2021-08-05 19:05:20",
+  "Reason": "none",
+  "TemplateStatus": 0
+}

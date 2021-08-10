@@ -7,14 +7,18 @@
 
   <ItemGroup>
     <None Remove="Samples\allTemplates.json" />
-    <None Remove="Samples\singleTemplate.json" />
+    <None Remove="Samples\singleTemplateWithEnumName.json" />
+    <None Remove="Samples\singleTemplateWithInt.json" />
   </ItemGroup>
 
   <ItemGroup>
     <Content Include="Samples\allTemplates.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Samples\singleTemplate.json">
+    <Content Include="Samples\singleTemplateWithEnumName.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Samples\singleTemplateWithInt.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

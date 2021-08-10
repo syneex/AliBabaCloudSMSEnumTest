@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json.Converters;
+using System.Runtime.Serialization;
 using System.Text.Json.Serialization;
 
 namespace EnumTestJsonConvert
@@ -11,16 +12,16 @@ namespace EnumTestJsonConvert
         /// <summary>
         /// [0] The Verification Template Type.
         /// </summary>
-        Verification,
+        Verification = 0,
 
         /// <summary>
         /// [1] The Notification Template Type.
         /// </summary>
-        Notification,
+        Notification = 1,
 
         /// <summary>
         /// [2] The Promotion Template Type.
         /// </summary>
-        Promotion,
+        Promotion = 2,
     }
 }
